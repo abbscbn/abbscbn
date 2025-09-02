@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben abbscbn
+# 👋 Merhaba, ben Abbas
 
 ## 💻 Hakkımda
 Bilgisayar mühendisiyim ve yolculuğuma Full-Stack Developer olarak devam ediyorum. Karmaşık sistemleri sade bir şekilde tasarlamayı, sürekli öğrenmeyi ve teknolojiyi etkin kullanmayı önemsiyorum.
