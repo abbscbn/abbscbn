@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Merhaba, ben abbscbn
 
-<!--
-**abbscbn/abbscbn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Hakkımda
+Bilgisayar mühendisiyim ve yolculuğuma Full-Stack Developer olarak devam ediyorum. Karmaşık sistemleri sade bir şekilde tasarlamayı, sürekli öğrenmeyi ve teknolojiyi etkin kullanmayı önemsiyorum.
 
-Here are some ideas to get you started:
+## 🚀 Kullandığım Teknolojiler
+- **Backend:** Spring Boot, Redis, RabbitMQ, Docker
+- **Frontend:** React.js, Bootstrap
+- **Veri Tabanı:** PostgreSQL, MySQL, Redis
+- **Mesajlaşma:** RabbitMQ
+- **Container & Orchestration:** Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 Kullandığım Diller
+- Java
+- JavaScript
+- TypeScript
+- HTML / CSS
+
+## 🌟 Favori Projem
+[E-commerce-Microservices](https://github.com/abbscbn/E-commerce-Microservices)  
+> Mikroservis mimarisi ile modern ve ölçeklenebilir bir e-ticaret uygulaması.
+
+## 🎯 İlgi Alanlarım
+- Problem analizi
+- Problem çözümü
+
+## ✨ Motto
+> **Herşey temelde basittir.**
+
+---
+
+## 📫 Benimle iletişime geçmek için:
+- **E-posta:** abbscbn@gmail.com
+- [GitHub](https://github.com/abbscbn)
+
+---
+
+> Daha fazla proje ve güncelleme için profilimi takip edebilirsiniz!
